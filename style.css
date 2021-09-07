@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    font-family: cursive;
+    color: white;
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: tomato;
+    font-family: fantasy;
+}
+
+#subheading {
+    color: powderblue;
+    font-size: 30px;
+}
+
+#things {
+    word-spacing: 8px;
+    font-size: 15px;
+    color: forestgreen;
+    background-color: white;
+    border-radius: 75px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.detection {
+    color: yellow;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+img {
+    width: 170px;
+    height: 100px;
+}
+
+footer {
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+canvas {
+    position: fixed;
+    left: 570px;
+    top: 370px;
+}
